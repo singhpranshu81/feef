@@ -339,4 +339,12 @@ public class MainClass {
 	}
 
 }
+![image](https://github.com/user-attachments/assets/be956766-167a-4743-a0f4-460e2309bbd0)
+![image](https://github.com/user-attachments/assets/115285c6-4bb8-424b-98a3-4123c3318532)
+![image](https://github.com/user-attachments/assets/f24e8028-f789-4111-84b4-a687189b38e9)
+![image](https://github.com/user-attachments/assets/e8f50ee1-501b-43a9-8f8c-82b984645a7f)
+![image](https://github.com/user-attachments/assets/2b2ae253-1f3e-46dc-b8b0-9f65c2e5ee6a)
+
+![image](https://github.com/user-attachments/assets/4f1d181b-b902-4b9d-9116-7814e815774d)
+
 
